@@ -10,8 +10,6 @@ A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces 
 ](https://api.github.com/repos/igiteam/openjkdf2-star-wars-episode-i-ii-iii/git/trees/main?recursive=1)
 
 ## Reference Links
-[![ZED Editor Tutorials]()](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEug75t5V8XUR26jmoyjEvs)
-
 [https://www.massassi.net/](https://www.massassi.net/)
 
 [https://www.massassi.net/programs/](https://www.massassi.net/programs/)
