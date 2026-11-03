@@ -408,8 +408,6 @@ OpenPhantom is a PC fix and modding project for Star Wars Episode I: The Phantom
 
 The project has two parts. The legacy patches are useful today: they modify the retail executable in memory so the game you already own runs with modern fixes. The reconstructed engine is the long-term work: rebuilding the game's systems from the ground up as clean source code that can support deeper modding and new features.
 
-<img width="1920" height="400" alt="Star Wars Episode I: The Phantom Menace running at ultrawide resolution with OpenPhantom." src="https://github.com/user-attachments/assets/ad9cd6fb-8bcd-4b25-8d0a-65e221888bfc" />
-
 *Ultra-wide support with OpenPhantom.*
 [![Ultra-wide support with OpenPhantom](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-1.png)](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-1.png)
 
