@@ -19,6 +19,8 @@ A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces 
 
 [https://github.com/igiteam/OpenPhantom](https://github.com/igiteam/OpenPhantom)
 
+[https://github.com/igiteam/openswe1r](https://github.com/igiteam/openswe1r)
+
 [https://www.massassi.net/3dos/jk.html](https://www.massassi.net/3dos/jk.html)
 
 [![ZED Editor Tutorials](https://img.youtube.com/vi/8DoHek4jti4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEug75t5V8XUR26jmoyjEvs)
