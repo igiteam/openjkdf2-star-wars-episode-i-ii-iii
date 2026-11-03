@@ -23,7 +23,7 @@ A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces 
 
 [https://www.massassi.net/3dos/jk.html](https://www.massassi.net/3dos/jk.html)
 
-[![https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938](https://images.steamusercontent.com/ugc/1027329626942050881/49448E71A3E7CB633F41CC12E6E48371D216A894/)](https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938)
+[![https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938](https://raw.githubusercontent.com/igiteam/openjkdf2-star-wars-episode-i-ii-iii/refs/heads/master/jkedit.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938)
 
 [![http://www.jkhub.net/library/index.php/Tools:JkEdit_v3.24_full](https://static.wikia.nocookie.net/jkdf2/images/9/9d/JkEdit_Editor.png)](http://www.jkhub.net/library/index.php/Tools:JkEdit_v3.24_full)
 
