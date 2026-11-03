@@ -23,7 +23,7 @@ A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces 
 
 [https://www.massassi.net/3dos/jk.html](https://www.massassi.net/3dos/jk.html)
 
-[![https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938](https://raw.githubusercontent.com/igiteam/openjkdf2-star-wars-episode-i-ii-iii/refs/heads/master/jkedit.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938)
+[How to install (and create!) single-player Dark Forces II: Jedi Knight and Mysteries of the Sith maps](https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938)
 
 [![http://www.jkhub.net/library/index.php/Tools:JkEdit_v3.24_full](https://static.wikia.nocookie.net/jkdf2/images/9/9d/JkEdit_Editor.png)](http://www.jkhub.net/library/index.php/Tools:JkEdit_v3.24_full)
 
