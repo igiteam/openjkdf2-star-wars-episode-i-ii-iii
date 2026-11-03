@@ -395,6 +395,7 @@ total          4.162%          105 / 2798
 ---
 
 # OpenPhantom: Star Wars Episode I, The Phantom Menace PC fixes and modding tools
+[https://github.com/igiteam/OpenPhantom](https://github.com/igiteam/OpenPhantom)
 
 [![Latest Release](https://img.shields.io/github/v/release/OpenPhantom/OpenPhantom?style=for-the-badge&label=Latest-Release)](https://github.com/OpenPhantom/OpenPhantom/releases/latest)
 [![All Downloads](https://img.shields.io/github/downloads/OpenPhantom/OpenPhantom/total?style=for-the-badge&label=Downloads)](https://github.com/OpenPhantom/OpenPhantom/releases)
@@ -410,14 +411,13 @@ The project has two parts. The legacy patches are useful today: they modify the 
 <img width="1920" height="400" alt="Star Wars Episode I: The Phantom Menace running at ultrawide resolution with OpenPhantom." src="https://github.com/user-attachments/assets/ad9cd6fb-8bcd-4b25-8d0a-65e221888bfc" />
 
 *Ultra-wide support with OpenPhantom.*
-
-<img width="1920" height="1080" alt="Star Wars Episode I: The Phantom Menace running in 4K with expanded draw distance using OpenPhantom" src="https://github.com/user-attachments/assets/8ffa0c2f-d9a4-439c-a880-6eb123f29090" />
+[![Ultra-wide support with OpenPhantom](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-1.png)](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-1.png)
 
 *4K rendering with expanded draw distance.*
-
-<img width="1920" height="1080" alt="Star Wars Episode 1 The Phantom Menace Screenshot 2026 09 14 - 11 16 27 84" src="https://github.com/user-attachments/assets/59fd4625-e932-47fa-ad1a-18be13ede3e0" />
+[![4K rendering with expanded draw distance](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-2.png)](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-2.png)
 
 *Free Camera/ No Clip/ Photo mode.*
+[![Free Camera](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-3.png)](https://raw.githubusercontent.com/igiteam/OpenPhantom/refs/heads/main/openphantom-3.png)
 
 **Want to play?** Download the [latest release](https://github.com/OpenPhantom/OpenPhantom/releases/latest) and run the OpenPhantom installer. It installs the original game from your own disc and applies the available patches and fixes for modern Windows PCs. You don't need to build anything from source.
 
