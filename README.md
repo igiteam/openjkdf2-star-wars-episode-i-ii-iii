@@ -33,8 +33,12 @@ A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces 
 
 [![ZED Editor Tutorials](https://img.youtube.com/vi/8DoHek4jti4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEug75t5V8XUR26jmoyjEvs)
 
-
 ![MacOS Screenshot](docs/images/screenshot.png)
+
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
 ## [Latest Releases](https://github.com/shinyquagsire23/OpenJKDF2/releases) | [Report a crash or bug](https://github.com/shinyquagsire23/OpenJKDF2/issues)
 
