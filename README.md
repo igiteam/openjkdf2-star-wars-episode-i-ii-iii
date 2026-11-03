@@ -25,6 +25,10 @@ A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces 
 
 [How to install (and create!) single-player Dark Forces II: Jedi Knight and Mysteries of the Sith maps](https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938)
 
+[https://www.moddb.com/games/star-wars-jedi-knight-dark-forces-ii/tutorials/jkedit-official-tutorials](https://www.moddb.com/games/star-wars-jedi-knight-dark-forces-ii/tutorials/jkedit-official-tutorials)
+
+[https://www.moddb.com/games/star-wars-jedi-knight-dark-forces-ii/tutorials](https://www.moddb.com/games/star-wars-jedi-knight-dark-forces-ii/tutorials)
+
 [![http://www.jkhub.net/library/index.php/Tools:JkEdit_v3.24_full](https://static.wikia.nocookie.net/jkdf2/images/9/9d/JkEdit_Editor.png)](http://www.jkhub.net/library/index.php/Tools:JkEdit_v3.24_full)
 
 [![ZED Editor Tutorials](https://img.youtube.com/vi/8DoHek4jti4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEug75t5V8XUR26jmoyjEvs)
