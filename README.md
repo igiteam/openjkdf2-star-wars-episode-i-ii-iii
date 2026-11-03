@@ -1,4 +1,27 @@
-# OpenJKDF2
+## OpenJKDF2 - Star Wars Episode I-II-III Remake
+A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces II decompilation project.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/openjkdf2-star-wars-episode-i-ii-iii
+](https://treegit.macosxjs.com/?url=igiteam/openjkdf2-star-wars-episode-i-ii-iii)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/openjkdf2-star-wars-episode-i-ii-iii/git/trees/main?recursive=1
+](https://api.github.com/repos/igiteam/openjkdf2-star-wars-episode-i-ii-iii/git/trees/main?recursive=1)
+
+## Reference Links
+[![ZED Editor Tutorials]()](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEug75t5V8XUR26jmoyjEvs)
+
+[https://www.massassi.net/](https://www.massassi.net/)
+
+[https://www.massassi.net/programs/](https://www.massassi.net/programs/)
+
+[https://www.massassi.net/programs/jed/ZED_2008-01-31.zip](https://www.massassi.net/programs/jed/ZED_2008-01-31.zip)
+
+[https://www.massassi.net/3dos/jk.html](https://www.massassi.net/3dos/jk.html)
+
+[![ZED Editor Tutorials](https://img.youtube.com/vi/8DoHek4jti4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEug75t5V8XUR26jmoyjEvs)
+
 
 ![MacOS Screenshot](docs/images/screenshot.png)
 
