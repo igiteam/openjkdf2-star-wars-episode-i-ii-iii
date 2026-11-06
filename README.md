@@ -380,39 +380,6 @@ total          4.162%          105 / 2798
 
 ```
 
-## Dev Environment
-
-**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
-[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
-
-**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
-[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
-
-**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
-[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
-
-**WS11WineCX20.0.4 (Wine engine)**
-[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
-
-**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
-[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
-
-**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
-[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
-
-**wiimote_nunchuk_macosx**
-[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
-
-**xbox360_input_gui_py**
-[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
-
-**logitec_mx_mouse_3_macos**
-[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
-
-**igi1-macbook-3d-workstation**
-[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
-
----
 
 # OpenPhantom: Star Wars Episode I, The Phantom Menace PC fixes and modding tools
 [https://github.com/igiteam/OpenPhantom](https://github.com/igiteam/OpenPhantom)
@@ -520,29 +487,36 @@ proprietary, in the repository or in a release. Everything here operates on file
 and you need a legally obtained copy of *Star Wars Episode I: The Phantom Menace* for PC to use
 any of it.
 
-## Legal
+## Dev Environment
 
-An independent fan project. Not affiliated with, endorsed by or sponsored by LucasArts, Lucasfilm
-Ltd or Disney. All trademarks, game titles and related intellectual property belong to their
-respective owners. OpenPhantom claims no ownership of any original game content and redistributes
-none of it.
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
 
-## Licence
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
 
-MIT. The source here is free to use, modify and distribute under those terms, provided the licence
-notice travels with it. See [LICENSE](LICENSE).
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
 
-The licence covers this source code only, and not the third-party binaries the installer carries
-in `installer/dist/`, which are each under their own terms and include GPL and proprietary
-components. See [installer/THIRD-PARTY-NOTICES.md](installer/THIRD-PARTY-NOTICES.md), which also
-records what a release has to ship alongside the installer to satisfy them.
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
 
-It grants nothing regarding the original game, its
-assets, or anything else its rights holders own. Release archives may also contain third party
-components under their own licences, which are named in the release notes.
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
 
-## Contact
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
 
-General enquiries and feedback: **openphantom@proton.me**
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
 
-For anything technical, open an issue here; more people will see it and it stays searchable.
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
