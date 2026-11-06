@@ -21,6 +21,8 @@ A remake of *Star Wars Episode I-II-III* rebuilt in the Jedi Knight Dark Forces 
 
 [https://github.com/igiteam/openswe1r](https://github.com/igiteam/openswe1r)
 
+[https://github.com/tim-tim707/SW_RACER_RE](https://github.com/tim-tim707/SW_RACER_RE)
+
 [https://www.massassi.net/3dos/jk.html](https://www.massassi.net/3dos/jk.html)
 
 [How to install (and create!) single-player Dark Forces II: Jedi Knight and Mysteries of the Sith maps](https://steamcommunity.com/sharedfiles/filedetails/?id=2102184938)
